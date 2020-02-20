@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiscoveryTestApp</string>
+
+    <string name="active_service_status_active">Active</string>
+    <string name="active_service_status_not_active">Not Active</string>
+    <string name="active_service_status_frozen">Frozen</string>
+    <string name="active_service_status_locked">Locked</string>
+    <string name="active_service_status_closed">Closed</string>
+    <string name="active_service_status_unknown">Unknown status</string>
+    <string name="active_service_status_until_template">until %1$s</string>
+</resources>
